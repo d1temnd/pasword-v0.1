@@ -1,5 +1,7 @@
 #pasword
 
+#by d1temnd
+
 a=(input("введите свой ник:"))#admin
 b=(input("введите пароль:"))#admin
 
